@@ -69,6 +69,8 @@ axios.get('https://api.github.com/users/BlueImport')
     'ndacode',
     'Lfritze',
     'VivaCode',
+    'MsMaddyMac',
+    'J2Macwilliams',
   ];
 
   followersArray.forEach((user) => {
